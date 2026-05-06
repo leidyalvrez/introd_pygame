@@ -8,7 +8,7 @@ pygame.init()
 ventana = pygame.display.set_mode((400,400))
 
 #establecer el titulo de la ventana
-pygame.display.set_caption("Pygame Guanentá")
+pygame.display.set_caption("Pygame Leidy")
 
 # definir colores
 azul = (0,0,255)
